@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Iris\Iris.Core\bin\Debug\netcoreapp3.1\Iris.Core.deps.json
+C:\Users\ASUS\source\repos\Iris\Iris.Core\bin\Debug\netcoreapp3.1\Iris.Core.dll
+C:\Users\ASUS\source\repos\Iris\Iris.Core\obj\Debug\netcoreapp3.1\Iris.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Iris\Iris.Core\obj\Debug\netcoreapp3.1\Iris.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Iris\Iris.Core\bin\Debug\netcoreapp3.1\Iris.Core.pdb
+C:\Users\ASUS\source\repos\Iris\Iris.Core\obj\Debug\netcoreapp3.1\Iris.Core.dll
+C:\Users\ASUS\source\repos\Iris\Iris.Core\obj\Debug\netcoreapp3.1\Iris.Core.pdb
+C:\Users\ASUS\source\repos\Iris\Iris.Core\bin\Debug\netcoreapp3.1\Iris.Core.runtimeconfig.json
+C:\Users\ASUS\source\repos\Iris\Iris.Core\bin\Debug\netcoreapp3.1\Iris.Core.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Iris\Iris.Core\obj\Debug\netcoreapp3.1\Iris.Core.csprojAssemblyReference.cache

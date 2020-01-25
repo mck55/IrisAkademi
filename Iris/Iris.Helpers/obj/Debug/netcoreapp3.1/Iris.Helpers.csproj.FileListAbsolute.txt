@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\bin\Debug\netcoreapp3.1\Iris.Helpers.deps.json
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\bin\Debug\netcoreapp3.1\Iris.Helpers.dll
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\obj\Debug\netcoreapp3.1\Iris.Helpers.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\obj\Debug\netcoreapp3.1\Iris.Helpers.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\bin\Debug\netcoreapp3.1\Iris.Helpers.pdb
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\obj\Debug\netcoreapp3.1\Iris.Helpers.dll
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\obj\Debug\netcoreapp3.1\Iris.Helpers.pdb
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\bin\Debug\netcoreapp3.1\Iris.Helpers.runtimeconfig.json
+C:\Users\ASUS\source\repos\Iris\Iris.Helpers\bin\Debug\netcoreapp3.1\Iris.Helpers.runtimeconfig.dev.json

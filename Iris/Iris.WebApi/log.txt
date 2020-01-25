@@ -1,0 +1,420 @@
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Something went wrong: System.Exception: Deneme Hata Mesajı 
+   at Iris.WebApi.Controllers.ValuesController.Get() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Controllers\ValuesController.cs:line 25
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Something went wrong: System.Exception: Deneme Hata Mesajı 
+   at Iris.WebApi.Controllers.ValuesController.Get()
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Something went wrong: System.Exception: Deneme Hata Mesajı 
+   at Iris.WebApi.Controllers.ValuesController.Get() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Controllers\ValuesController.cs:line 25
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Something went wrong: System.Exception: Deneme Hata Mesajı 
+   at Iris.WebApi.Controllers.ValuesController.Get() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Controllers\ValuesController.cs:line 25
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Something went wrong: System.Exception: Deneme Hata Mesajı 
+   at Iris.WebApi.Controllers.ValuesController.Get() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Controllers\ValuesController.cs:line 25
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Iris.WebApi.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Startup.cs:line 79
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Error | Event ID : 1 | Event Name : UnhandledException | Formatter : An unhandled exception has occurred while executing the request.
+Log Level : Error | Event ID : 0 | Event Name :  | Formatter : Something went wrong: System.Exception: Deneme Hata Mesajı 
+   at Iris.WebApi.Controllers.ValuesController.Get() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Controllers\ValuesController.cs:line 25
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Iris.WebApi.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in C:\Users\ASUS\source\repos\Iris\Iris.WebApi\Startup.cs:line 79
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ASUS\source\repos\Iris\Iris.WebApi
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : api/values/get/id

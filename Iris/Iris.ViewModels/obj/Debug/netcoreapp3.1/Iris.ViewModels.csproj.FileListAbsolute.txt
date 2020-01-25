@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\bin\Debug\netcoreapp3.1\Iris.ViewModels.deps.json
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\bin\Debug\netcoreapp3.1\Iris.ViewModels.dll
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\obj\Debug\netcoreapp3.1\Iris.ViewModels.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\obj\Debug\netcoreapp3.1\Iris.ViewModels.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\obj\Debug\netcoreapp3.1\Iris.ViewModels.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\bin\Debug\netcoreapp3.1\Iris.ViewModels.runtimeconfig.json
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\bin\Debug\netcoreapp3.1\Iris.ViewModels.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\bin\Debug\netcoreapp3.1\Iris.ViewModels.pdb
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\obj\Debug\netcoreapp3.1\Iris.ViewModels.dll
+C:\Users\ASUS\source\repos\Iris\Iris.ViewModels\obj\Debug\netcoreapp3.1\Iris.ViewModels.pdb
